@@ -1,0 +1,51 @@
+let guitars = [
+  {
+    id: 1,
+    name: "Martin D-28",
+    price: 3200,
+    description: "Classic acoustic dreadnought with rich tone.",
+    type: "acoustic",
+    image: "src/assets/martin-d28.jpg",
+  },
+  {
+    id: 2,
+    name: "Taylor 814ce",
+    price: 3500,
+    description: "Premium acoustic-electric with a balanced sound.",
+    type: "acoustic",
+    image: "src/assets/taylor-814ce.jpg",
+  },
+  {
+    id: 3,
+    name: "Gibson J-45",
+    price: 3400,
+    description: "Iconic acoustic with warm and full-bodied tone.",
+    type: "acoustic",
+    image: "src/assets/gibson-j45.jpg",
+  },
+  {
+    id: 4,
+    name: "Fender Stratocaster",
+    price: 1500,
+    description: "Versatile electric guitar with a signature sound.",
+    type: "electric",
+    image: "src/assets/fender-stratocaster.jpg",
+  },
+  {
+    id: 5,
+    name: "Gibson Les Paul",
+    price: 2500,
+    description: "Timeless electric guitar known for its sustain.",
+    type: "electric",
+    image: "src/assets/gibson-les-paul.jpg",
+  },
+  {
+    id: 6,
+    name: "Ibanez RG550",
+    price: 1200,
+    description: "Fast and high-performance electric guitar.",
+    type: "electric",
+    image: "src/assets/ibanez-rg550.jpg",
+  },
+];
+export default guitars;

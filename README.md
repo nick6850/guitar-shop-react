@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project aims to improve my skills in using React Router and Tailwind CSS. It is a simple web application that simulates an online guitar store. Users can add their desired guitar to a shopping cart along with various accessories, and the total price is displayed dynamically. Furthermore, I utilize CreateContext and useReducer for effective state management.
