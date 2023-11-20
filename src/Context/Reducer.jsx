@@ -18,6 +18,6 @@ export const reducer = (state, action) => {
         total: state.items.reduce((acc, curr) => acc + curr.price, 0),
       };
     default:
-      break;
+      state;
   }
 };

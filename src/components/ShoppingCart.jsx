@@ -38,7 +38,7 @@ function ShoppingCart() {
           </div>
         );
       })}
-      <div className="mt-4 text-right text-xl">
+      <div className="mr-3 mt-4 flex justify-end text-xl">
         Total : <span className="font-bold">${state.total}</span>
       </div>
     </div>
